@@ -9,3 +9,5 @@ reported incidents links to the coordinates of the users location on Google Maps
 
 The routes for navigating the pages are located in the router.jsx file, with many stylizing details,
 including the background image and text specifications, are within the styles.css file.
+
+Use this link to access the live website: https://pentagon-safetysolutions.glitch.me
